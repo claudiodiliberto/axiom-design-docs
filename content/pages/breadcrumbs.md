@@ -17,4 +17,8 @@ sections:
 
           D) Current page label
         image: /assets/breadcrumbs_anatomy.png
+  - type: block_list
+    title: Anatomy
+    blocks:
+      - {}
 ---
